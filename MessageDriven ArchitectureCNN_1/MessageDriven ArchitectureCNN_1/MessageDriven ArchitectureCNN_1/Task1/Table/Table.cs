@@ -12,15 +12,15 @@ namespace MessageDriven_ArchitectureCNN_1.Task1
 
         public int StatesCount { get; set; }
 
-        public int Id { get; set; }
+        public int TableIndex { get; set; }
 
 
         public Table(int id)
         {
-         Id =id;
+            TableIndex = id;
          State = State.Free; // Новый стол всегда свободен
 
-            Random random = new Random();   
+         Random random = new Random();   
 
          StatesCount = random.Next(1, 5); //Количество мест за каждым столом случайно
         
