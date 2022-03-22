@@ -1,0 +1,15 @@
+H:\homeworkcnn12\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\bin\Debug\net6.0\MessageDriven ArchitectureCNN_1.exe
+H:\homeworkcnn12\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\bin\Debug\net6.0\MessageDriven ArchitectureCNN_1.deps.json
+H:\homeworkcnn12\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\bin\Debug\net6.0\MessageDriven ArchitectureCNN_1.runtimeconfig.json
+H:\homeworkcnn12\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\bin\Debug\net6.0\MessageDriven ArchitectureCNN_1.dll
+H:\homeworkcnn12\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\bin\Debug\net6.0\ref\MessageDriven ArchitectureCNN_1.dll
+H:\homeworkcnn12\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\bin\Debug\net6.0\MessageDriven ArchitectureCNN_1.pdb
+H:\homeworkcnn12\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\obj\Debug\net6.0\MessageDriven ArchitectureCNN_1.csproj.AssemblyReference.cache
+H:\homeworkcnn12\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\obj\Debug\net6.0\MessageDriven ArchitectureCNN_1.GeneratedMSBuildEditorConfig.editorconfig
+H:\homeworkcnn12\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\obj\Debug\net6.0\MessageDriven ArchitectureCNN_1.AssemblyInfoInputs.cache
+H:\homeworkcnn12\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\obj\Debug\net6.0\MessageDriven ArchitectureCNN_1.AssemblyInfo.cs
+H:\homeworkcnn12\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\obj\Debug\net6.0\MessageDriven ArchitectureCNN_1.csproj.CoreCompileInputs.cache
+H:\homeworkcnn12\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\obj\Debug\net6.0\MessageDriven ArchitectureCNN_1.dll
+H:\homeworkcnn12\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\obj\Debug\net6.0\ref\MessageDriven ArchitectureCNN_1.dll
+H:\homeworkcnn12\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\obj\Debug\net6.0\MessageDriven ArchitectureCNN_1.pdb
+H:\homeworkcnn12\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\MessageDriven ArchitectureCNN_1\obj\Debug\net6.0\MessageDriven ArchitectureCNN_1.genruntimeconfig.cache

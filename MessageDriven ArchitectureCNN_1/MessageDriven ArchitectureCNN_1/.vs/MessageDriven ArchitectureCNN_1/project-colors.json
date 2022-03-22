@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d9251c7-04b2-431b-b488-b8ff813d0598": {
+      "ProjectGuid": "4d9251c7-04b2-431b-b488-b8ff813d0598",
+      "DisplayName": "MessageDriven ArchitectureCNN_1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

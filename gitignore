@@ -69,54 +69,66 @@ ScaffoldingReadMe.txt
 StyleCopReport.xml
 
 # Files built by Visual Studio
-*_i.c
-*_p.c
-*_h.h
-*.ilk
-*.meta
-*.obj
-*.iobj
-*.pch
-*.pdb
-*.ipdb
-*.pgc
-*.pgd
-*.rsp
-*.sbr
-*.tlb
-*.tli
-*.tlh
-*.tmp
-*.tmp_proj
-*_wpftmp.csproj
-*.log
-*.tlog
-*.vspscc
-*.vssscc
-.builds
-*.pidb
-*.svclog
-*.scc
+**_i.c
+**_p.c
+**_h.h
+**.ilk
+**.meta
+**.obj
+**.iobj
+**.pch
+**.pdb
+**.ipdb
+**.pgc
+**.pgd
+**.rsp
+**.sbr
+**.tlb
+**.tli
+**.tlh
+**.tmp
+**.tmp_proj
+**_wpftmp.csproj
+**.log
+**.tlog
+**.vspscc
+**.vssscc
+**.builds
+**.pidb
+**.svclog
+**.scc
+**.json
+**.v2
+**.v1
+**.suo
+**.dll
+**.exe
+**.pdb
+**.cache
+**.txt
+**.bin
+**.BIN
 
 # Chutzpah Test files
 _Chutzpah*
 
 # Visual C++ cache files
 ipch/
-*.aps
-*.ncb
-*.opendb
-*.opensdf
-*.sdf
-*.cachefile
-*.VC.db
-*.VC.VC.opendb
+**.aps
+**.ncb
+**.opendb
+**.opensdf
+**.sdf
+**.cachefile
+**.VC.db
+**.VC.VC.opendb
 
 # Visual Studio profiler
-*.psess
-*.vsp
-*.vspx
-*.sap
+**.psess
+**.vsp
+**.vspx
+**.sap
+**.bin
 
 # Visual Studio Trace Files
 *.e2e
@@ -180,12 +192,12 @@ DocProject/Help/html
 publish/
 
 # Publish Web Output
-*.[Pp]ublish.xml
-*.azurePubxml
+**.[Pp]ublish.xml
+**.azurePubxml
 # Note: Comment the next line if you want to checkin your web deploy settings,
 # but database connection strings (with potential passwords) will be unencrypted
-*.pubxml
-*.publishproj
+**.pubxml
+**.publishproj
 
 # Microsoft Azure Web App publish settings. Comment the next line if you want to
 # checkin your Azure Web App publish settings, but sensitive information contained
@@ -193,9 +205,9 @@ publish/
 PublishScripts/
 
 # NuGet Packages
-*.nupkg
+**.nupkg
 # NuGet Symbol Packages
-*.snupkg
+**.snupkg
 # The packages folder can be ignored because of Package Restore
 **/[Pp]ackages/*
 # except build/, which is used as an MSBuild target.
@@ -203,8 +215,8 @@ PublishScripts/
 # Uncomment if necessary however generally it will be regenerated when needed
 #!**/[Pp]ackages/repositories.config
 # NuGet v3's project.json files produces more ignorable files
-*.nuget.props
-*.nuget.targets
+**.nuget.props
+**.nuget.targets
 
 # Microsoft Azure Build Output
 csx/
@@ -219,25 +231,25 @@ AppPackages/
 BundleArtifacts/
 Package.StoreAssociation.xml
 _pkginfo.txt
-*.appx
-*.appxbundle
-*.appxupload
+**.appx
+**.appxbundle
+**.appxupload
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
-*.[Cc]ache
+**.[Cc]ache
 # but keep track of directories ending in .cache
 !?*.[Cc]ache/
 
 # Others
 ClientBin/
 ~$*
-*~
-*.dbmdl
-*.dbproj.schemaview
-*.jfm
-*.pfx
-*.publishsettings
+**~
+**.dbmdl
+**.dbproj.schemaview
+**.jfm
+**.pfx
+**.publishsettings
 orleans.codegen.cs
 
 # Including strong name files can present a security risk
@@ -262,48 +274,48 @@ ServiceFabricBackup/
 *.rptproj.bak
 
 # SQL Server files
-*.mdf
-*.ldf
-*.ndf
+**.mdf
+**.ldf
+**.ndf
 
 # Business Intelligence projects
-*.rdl.data
-*.bim.layout
-*.bim_*.settings
-*.rptproj.rsuser
-*- [Bb]ackup.rdl
-*- [Bb]ackup ([0-9]).rdl
-*- [Bb]ackup ([0-9][0-9]).rdl
+**.rdl.data
+**.bim.layout
+**.bim_*.settings
+**.rptproj.rsuser
+**- [Bb]ackup.rdl
+**- [Bb]ackup ([0-9]).rdl
+**- [Bb]ackup ([0-9][0-9]).rdl
 
 # Microsoft Fakes
 FakesAssemblies/
 
 # GhostDoc plugin setting file
-*.GhostDoc.xml
+**.GhostDoc.xml
 
 # Node.js Tools for Visual Studio
 .ntvs_analysis.dat
 node_modules/
 
 # Visual Studio 6 build log
-*.plg
+**.plg
 
 # Visual Studio 6 workspace options file
-*.opt
+**.opt
 
 # Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
-*.vbw
+**.vbw
 
 # Visual Studio 6 auto-generated project file (contains which files were open etc.)
-*.vbp
+**.vbp
 
 # Visual Studio 6 workspace and project file (working project files containing files to include in project)
-*.dsw
-*.dsp
+**.dsw
+**.dsp
 
 # Visual Studio 6 technical files 
-*.ncb
-*.aps
+**.ncb
+**.aps
 
 # Visual Studio LightSwitch build output
 **/*.HTMLClient/GeneratedArtifacts
@@ -332,16 +344,16 @@ __pycache__/
 # !tools/packages.config
 
 # Tabs Studio
-*.tss
+**.tss
 
 # Telerik's JustMock configuration file
-*.jmconfig
+**.jmconfig
 
 # BizTalk build output
-*.btp.cs
-*.btm.cs
-*.odx.cs
-*.xsd.cs
+**.btp.cs
+**.btm.cs
+**.odx.cs
+**.xsd.cs
 
 # OpenCover UI analysis results
 OpenCover/
@@ -350,19 +362,19 @@ OpenCover/
 ASALocalRun/
 
 # MSBuild Binary and Structured Log
-*.binlog
+**.binlog
 
 # NVidia Nsight GPU debugger configuration file
-*.nvuser
+**.nvuser
 
 # MFractors (Xamarin productivity tool) working folder
-.mfractor/
+
 
 # Local History for Visual Studio
-.localhistory/
+
 
 # Visual Studio History (VSHistory) files
-.vshistory/
+
 
 # BeatPulse healthcheck temp database
 healthchecksdb
@@ -371,28 +383,24 @@ healthchecksdb
 MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
-.ionide/
+
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
 # VS Code files for those working on multiple tools
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
+
+
 
 # Local History for Visual Studio Code
 .history/
 
 # Windows Installer files from build outputs
-*.cab
-*.msi
-*.msix
-*.msm
-*.msp
+**.cab
+**.msi
+**.msix
+**.msm
+**.msp
 
 # JetBrains Rider
-*.sln.iml
+**.sln.iml
